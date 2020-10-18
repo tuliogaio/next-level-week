@@ -1,0 +1,58 @@
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173224.860:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.422:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.423:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195058.455:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.721:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.826:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.826:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.826:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.827:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.827:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.827:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/195537.827:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1016/090528.762:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090528.778:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.420:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.420:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/090737.436:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.821:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.821:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.822:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.822:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.822:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.823:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.823:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.823:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1016/091528.840:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\efac1067-f3d0-44cb-be9b-1fa131bb7382.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.841:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\f311ae1e-4944-4d04-8704-4993065a752f.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.841:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\def1c01f-4bac-4418-9f3c-48ed11e9ff67.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.842:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e75b5ee5-5df0-41c0-a27f-720fadf933c0.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.842:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e06f5470-e719-4da3-8682-677e591e58e3.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.842:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e4300164-41c9-47ed-9316-ac1f5266744e.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.842:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\11b84bc1-339b-4116-ba27-fda88877fa74.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.842:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\Tulio\AppData\Local\Google\Chrome\User Data\Crashpad\reports\7e9026ed-8fa0-43a0-897d-2f91dd230e80.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1016/091528.844:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1016/150601.264:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
